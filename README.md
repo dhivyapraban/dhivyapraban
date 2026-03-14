@@ -1,5 +1,5 @@
 # Hi!, I'm Dhivyapraban
-ML and Backend Developer, Passionate about engineering and Data Science.
+ML and Backend Developer, Passionate about engineering and data science.
 
 <img align="right" height="340" width="400" alt="img" src="https://imgs.xkcd.com/comics/python.png" />
 
