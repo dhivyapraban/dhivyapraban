@@ -1,7 +1,7 @@
+<img align="right" height="340" width="400" src="https://github.com/gujral1997/poteto/blob/master/nice.gif" />
+
 # Hi!, I'm Dhivyapraban
 ML and Backend Developer, Passionate about engineering and Data Science.
-
-<img align="right" height="340" width="400" src="https://github.com/gujral1997/poteto/blob/master/nice.gif" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dhivyaprabanrk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhivyaprabanrk@gmail.com) 
